@@ -1,0 +1,1 @@
+{ "expo": { "name": "Elevate", "slug": "elevate-receipts-prototype", "version": "1.0.0", "orientation": "portrait", "userInterfaceStyle": "light", "ios": { "supportsTablet": false }, "android": {}, "web": {} } }
